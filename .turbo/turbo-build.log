@@ -1,18 +1,18 @@
 
-> medplum-live-chat-demo@3.2.24 build
+> medplum-live-chat-demo@3.2.25 build
 > tsc && vite build
 
-[36mvite v6.0.2 [32mbuilding for production...[36m[39m
+[36mvite v6.0.3 [32mbuilding for production...[36m[39m
 transforming...
 [32m✓[39m 6420 modules transformed.
 rendering chunks...
 computing gzip size...
 [2mdist/[22m[32mindex.html                 [39m[1m[2m  0.47 kB[22m[1m[22m[2m │ gzip:   0.30 kB[22m
-[2mdist/[22m[2massets/[22m[35mindex-l1xz7Ov1.css  [39m[1m[2m208.38 kB[22m[1m[22m[2m │ gzip:  30.81 kB[22m
-[2mdist/[22m[2massets/[22m[36mindex-tI1VqIAA.js   [39m[1m[33m643.43 kB[39m[22m[2m │ gzip: 191.40 kB[22m
+[2mdist/[22m[2massets/[22m[35mindex-BAmLYyRM.css  [39m[1m[2m208.49 kB[22m[1m[22m[2m │ gzip:  30.83 kB[22m
+[2mdist/[22m[2massets/[22m[36mindex-DRPFz5J4.js   [39m[1m[33m649.39 kB[39m[22m[2m │ gzip: 192.00 kB[22m
 [33m
 (!) Some chunks are larger than 500 kB after minification. Consider:
 - Using dynamic import() to code-split the application
 - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
-[32m✓ built in 42.38s[39m
+[32m✓ built in 45.06s[39m
